@@ -33,7 +33,7 @@ CiclistaApp é um aplicativo móvel desenvolvido para ciclistas, permitindo que 
 
 1. Clone o repositório:
 
-   git clone [https://github.com/seu-usuario/CiclistaApp.git](https://github.com/seu-usuario/CiclistaApp.git)
+   git clone
    cd CiclistaApp
 
 2. Instale as dependências:
