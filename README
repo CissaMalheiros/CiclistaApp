@@ -44,6 +44,11 @@ CiclistaApp é um aplicativo móvel desenvolvido para ciclistas, permitindo que 
 
 > npx expo start
 
+Gerar apk:
+> expo login
+
+> expo build:android
+
 ## Uso
 
 Abra o aplicativo no seu emulador android.
